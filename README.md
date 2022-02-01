@@ -1,4 +1,4 @@
-# HTML_And_CSS_Tempelate_Two
+# Kaper Template
 
 Responsive HTML And CSS Design with Flexbox using Media Queries.
 
